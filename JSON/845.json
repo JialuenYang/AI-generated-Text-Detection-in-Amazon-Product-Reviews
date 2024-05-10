@@ -1,0 +1,804 @@
+{
+	"data": [
+		{
+			"title": "Love it! Much faster wifi now. Just download the app to your phone before you start the process.",
+			"body": "I've been working from home since March because of covid. So my modem/router was getting a workout. I have a couple laptops, phone and TV on at the same time, all day. I was noticing sluggishness in other rooms further away from the device. My new bedroom TV was buffering and sticking. Even with a newer faster laptop I was still getting lag. After conferring with IT, that left my internet or the modem/router device. I finally called my provider and got tons of info - because I'm not tech savvy - and realized it was time to upgrade from my Netgear modem/router. Mind you, it had been very good to me for the years I had it. And I really liked that it was a compact 2-in-1 device that worked well. But it was a docsis 3.0 (that's the operating system) and the new standard is 3.1.\n\nTime to upgrade. I was planning to go back to the cable company's modem + router, when Amazon had a Prime Deal on this eero router. So I got the free modem from the cable company (not thrilled that it's black and a little large, will have to find a way to make it fashion), and jumped at the eero router with the Prime Deal price.\n\nFirst of all, the eero is beautiful. Small, sleek, white. I really insist things in my house are beautiful as well as functional, even on a single girl's budget.\n\nAlso, it's powerful. 2G and 5G channels, able to handle 500+ mbps, more than enough for my 50 mbps plan, and covers up to 1500 sq. ft., much larger than my apartment.\n\nPlus it's got \"mesh\" which means it does a better job of coverage. My cable girl was impressed, which is a good sign.\n\nThe setup is easy. But a little tricky if you, like I, replace both the modem and router at the same time. You will depend entirely on your cell phone data for setup. So BEFORE you disconnect your internet, download the app using wifi so you're not burning through your data. Also have username/password for your internet service handy. Now you're ready to disconnect devices and begin eero install. Once I got the app and my cable login, setup was easy. The app really does walk you through the steps.\n\nNow, everything's fast, even the back bedroom, and I'm experiencing almost zero lag! My speed tested higher than my plan! And I love that I can use the app to see all my devices, their signal strength, and see if anyone is piggybacking my signal (which never happens but now I have proof). The only thing that could be better is if they come up with a modem/router combo device that is just as beautiful. Love it!!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Fairly easy to set up, good signal and speed",
+			"body": "The Eero mesh system was fairly easy to set up. I did run into some network issues for the next day or two where my devices connected through the Eero system could not find the devices on my main network by name (DNS) due to complications of being on a different subnet (192.168.4.### versus 192.168.1.### of the regular network). The answer was to change the Eero's settings from \"AUTOMATIC\" (router mode) to \"BRIDGED\" which means it's no longer acting as a router but only an access point.\n\nThis was purchased because I had just added a computer desk on the opposite end of my home from where the wifi is located, and there is a fireplace and chimney flue duct that was blocking the signal. With the 3 unit set I am able to connect the primary unit to my wired network (in the second room over from the Internet router), and the middle device is about 15-20' away in the next room, and the end-point device about 25' from that, in the far corner of the living room. Great signal now.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great Router but also buy the Beacon",
+			"body": "So I bought this to upgrade from my old Apple Airport Express. My modem supplied by Spectrum only has one ethernet connection as did the Airport Express. Due to COVID-19, I’ll be working out of my house and needed more Ethernet ports and increased bandwidth. Called Spectrum, upgraded my speed and bought the Eero router and one Beacon. I also bought an Ethernet switch to plug into the Eero - just Incase I need more ports.\n\nThe installation of this was easy but definitely took me longer than 30 minutes. I literally had to re-pair all of my devices manually (MacBook Pro, iPhone, 3 echo dots, one echo & firestick) to this router which was time consuming. It did not recognize everything as some reviews.\n\nTo get a clear picture of my setup: The modem is in my office which is in the front of my 1000 square foot condo built in 1982. I’ve always had horrible WIFI connectivity in the back half of my place.\n\nWhen I bought this router, I decided to also buy the Beacon because even with an extender with my old set up, my WIFI connection in the back half of my condo either drops or is very weak. That’s where I have my firestick, one echo dot & the echo is in the middle of my condo.\n\nI got the Eero first and once set up - experienced the same connectivity issues in the back of my condo. The firestick was constantly dropping or giving me a fair or marginal connection. Same with the echo dot in my master bedroom (which is in the back half of my condo near the firestick).\n\nThe Beacon came today and the setup was so ridiculously easy - I was full blown excited. However, although it paired seamlessly to the Eero, it didn’t automatically signal everything in the back half of my condo. The solution? I re-paired the firestick, echo and echo dot in the back half of my condo and now it shows on the app the Eero is signaling the front half of my condo and the Beacon is signaling the back half. For the first time ever - I have 5 bars everywhere.\n\nI gave this an overall 5 star because the Eero WITH the Beacon is a beautiful combination. I gave the WIFI rating a 3 because the Eero is supposed to cover 1500 square feet and that was far from accurate in my 1000 square foot place.\n\nI suggest whoever buys the Eero to spend the extra money and buy the Beacon. The Beacon was the game changer. Little overpriced but worth the 5 bars. Say goodbye to dead zones when the Eero is paired with the Beacon.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Not so easy as expected",
+			"body": "I began to set up as I received at evening. It got stuck at registering. Simple steps but few ways to know what’s wrong. I gave up that night and decided to call support. The next day, I retried one more time, it worked. Everything went smoothly. Surprised!!! The signal is good. Network is stable. Work like a charm.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Instantly better connectivity",
+			"body": "Had very spotty Astound internet at home and the Eero was an immediate fix! No required monthly fees (unlike Astound who wanted $14/month!) and was super simple to install!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Disappointing Experience: Amazon Echo Dot Failed to Connect with eero and Failed as a Wi-Fi Extender",
+			"body": "I recently purchased a brand new Amazon Echo Dot along with a brand new eero device with high hopes of improving my Wi-Fi coverage at home. Unfortunately, my experience has been nothing short of frustrating and disappointing. The Echo Dot not only failed to connect with the eero device as expected, but it also proved to be useless as a Wi-Fi extender.\n\nWhen I first set up the Echo Dot, I followed the instructions carefully, hoping it would seamlessly integrate with my eero network. However, despite multiple attempts, the Echo Dot simply refused to connect to the eero device. I tried various troubleshooting steps, including resetting both devices, checking for firmware updates, and even contacting customer support, but none of these efforts yielded any positive results. It's incredibly frustrating to spend money on devices that claim to work together seamlessly, only to encounter such a fundamental compatibility issue.\n\nMoreover, one of the primary reasons I chose the Echo Dot was its advertised ability to act as a Wi-Fi extender. I have areas in my home where the Wi-Fi signal is weak, and I was counting on the Echo Dot to extend the network coverage. However, to my disappointment, the Echo Dot failed to improve the Wi-Fi signal strength in those areas. It didn't make any noticeable difference in terms of network reach or signal quality, rendering its purported Wi-Fi extender functionality useless.\n\nAs a consumer, I expect products to deliver on their advertised features, and unfortunately, the Amazon Echo Dot has failed on multiple fronts. The inability to connect with the eero device and its ineffectiveness as a Wi-Fi extender have left me thoroughly dissatisfied. I was hopeful that this combination of devices would enhance my home network experience, but instead, I find myself dealing with connectivity issues and subpar performance.\n\nI hope Amazon takes notice of these issues and addresses them promptly. As it stands, I cannot recommend the Amazon Echo Dot as a reliable Wi-Fi extender or a compatible device to use in conjunction with the eero system.",
+			"rating": 1,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 2
+		},
+		{
+			"title": "Improved Design at Much Improved Cost",
+			"body": "I bought a couple of these as backups to my long-running Eero Pro system, where I had three of the tri-band Eeros in a wired backhaul connection. I wanted to try these new dual-band units out to see how they performed, so I reset my system and am now using a tri-band Eero Pro as my main gateway router and two of these new Eeros as the satellites. It performs so well I am just leaving it as it is, and not going back to my old setup.\n\nHave to say the setup was just as easy as before, and wifi range and signal strength are just as good (this is a wired setup, and tri-band would probably be a better choice is meshing wirelessly).. And they handle my 115-120 clients (I have tons of gadgets, switches, cameras, etc) with zero issue and they've been totally stable. If you have ethernet runs and plan on a wired mesh, these are the way to go for best value.\n\nI am getting 280-450 Mb/sec to the PC's and tablets everywhere in my house, which is comparable to what I got with the much more expensive Eero pro setup with wired backhaul. Lots of routers claim outrageous numbers, but realistically I have not seen any consistently deliver better than roughly 450 Mb/sec wirelessly, despite the theoretical claims. I tried several Linksys tri-band routers, Orbi, Deco m9, Zyxel MultyX, and Synology RT2600ac, and never got better than that from any of them, so beware of theoretical speed claims that just don't realistically bear out. Eero also handles heavy device loads (in my case >100, consistently) with far better stability than anything else I have tried.\n\nI will also say these new Eeros add a few major bonuses over some of the older versions:\n\n1. Smaller footprint - they're taller, but take up less surface space.\n2. MUCH better heat dissipation - one concern I have with the flatter Eeros is they can get HOT to the touch. Eero says it's by design and the heat sink is right under the surface, but these new ones are much cooler to the touch with the additional head space, and give me peace of mind.\n3. These are basically Eero Beacons in terms of specs - same processor, same memory, same flash as the beacon and the Eero Pro, but dual band instead of tri band - and they have ethernet ports so you can a) wire them for backhaul or b) connect client devices to them, which you cannot do with a Beacon.\n4. These cost far less than an Eero Pro, and significantly less than a Beacon, even though the have the same hardware specs as the latter and are more flexible with their two ethernet ports.\n\nEero is not necessarily the fastest mesh system on the market, but iIve tried many of these systems, and I can say without question Eero is far and away the most stable and reliable, in my experience - and that is far more important to the average user than raw speed, if the system isn't dependable. If you have relatively basic mesh needs OR plan on using them in a wired backhaul setup even in a complex network, these are great choices.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Whoosh! Internet connected",
+			"body": "This quickly connected all our devices to the Internet giving us lightening speed over the miserable 8mbs we had on DSL. Setup was relatively easy except for somewhat confusing device names that popped up in the app. Don't buy the power adapter as I did because it is included. Funny, the Amazon description didn't mention that it was.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Compact and sleek mesh router",
+			"body": "This router is elegant and easy to install, and it comes with an app that lets you manage your home network and allow/block devices individually.\n\nI haven't tried the Alexa integration because I don't see the point, but apparently it has that.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "No more dropped meetings",
+			"body": "Having the eero mesh wifi has been working wonderful! I went from getting dropped from Zoom or Teams calls 3 or 4 times a day to zero. I wish I had known about it sooner!!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "More trouble than it's worth",
+			"body": "For years, I was having intermittent issues with my wi-fi strength using the duel-band (2G/5G) router provided by my internet provider. It wasn't terrible, but there were days when the internet would just go out for half a day and I was never sure if it was entirely on the provider outside my house, or an issue with the equipment inside. I decided to try and improve my wi-fi stability with this router and I regret it just about every day.\n\nSince installing this new router, I think my connection has actually become FAR LESS stable and I haven't been able to figure out why. Some of my devices, like Rokus or phones, haven't seemed to change much, but my new Powerbook hasn't been the same since the change-over.\n\nI use my Powerbook for work and I download/upload a lot of files over my wi-fi on any given day, but how stable my internet connection fluctuates wildly day-to-day and hour-to-hour. Nearly every file I send across the internet has a 50/50 chance of failing due to connectivity issues happening right in the middle of the transfer, and loading large amounts of files almost always results in a failure and \"no internet\" messages during the process. Keep in mind that I'm alone in the house for most work days so I am not competing with other devices using the wi-fi in any meaningful way.\n\nTo combat these issues, I've resorted to sharing files in smaller chunks and giving single, large files the \"royal treatment\" by avoiding any and all activity that could potentially fight the file for bandwidth. None of these \"solutions\" tend to be foolproof, so I spend hours sometimes just trying an upload/download again and again until the stars align just right. Unfortunately, I'm past the return period so I may just become frustrated enough one day to switch back to the \"outdated\" router I was given by my provider.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Lots to like but we can do so MUCH BETTER!",
+			"body": "Pros:\n* Less than $100 US dollars.\n* Software update process is transparent and automatic.\n* Security updates for 5 years after the device is last available for purchase.\n* Pretty sylish without visible antennas.\n* Mesh setup easy to setup.\n* 30 day trial for subscription features.\n* Easy to rename devices, even if not obvious at first glance.\n\nCons:\n* Must use a phone to setup. Sure a phone is convenient for ongoing management but a requirement to get working?\n* Does not support WPA3 out of the box. Sure, they add it as a beta feature but WPA3 was unveiled in 2018 so hello, over 5 years ago.\n* Subscription required for interesting features, some of which are available for free if you are more technically inclined.\n* Cannot use ANY subscription features if you prefer to not let Amazon know every web site you visit. (Yes, the DNS server you use from Amazon provides some security/family features in exchange for you telling them every place you go...what could go wrong from a USA based company hoovering up this data?\n* Cannot use profiles to manage devices on your guest network like you can on your non-guest one.\n* 2.4GHz and 5GHz use a single network name...so if you have a device that does not work well on 5GHz you are pretty stuck. Yes, they offer the option under troubleshooting to turn off the 5GHz for a short amount of time. But once it turns back on I have devices that lose their ever loving mind...why not have one network for each frequency? I can only guess Google envy as those boffins don't break\nout the networks either.\n* Zero insight into what threats have been blocked. Would be helpful to know what was blocked as there can be plenty of issues to sort out!\n* Zero insight into what ads have been blocked. No way to edit an allow list to select what to allow. Worse, ad blocking is on/off for the entire network or by profile. Remember, you cannot add guest devices to a profile so you are forced to put them on your non-guest network which defeats the reason for having a guest network.\n\nSo I am still hunting for the best device...",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "I bought the 3 pack, no dead zones in the house.",
+			"body": "It was very easy to connect and our reception has never been better!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Love it",
+			"body": "It's fast, it's stable and very easy to set up. Highly recommend",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy to use",
+			"body": "Fit right in to my existing web. Great support.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Incredibly frustrating!",
+			"body": "I'm getting so such of this thing that I'm about ready to sell it. So much of it is automated and entirely blocks user control. The app is very minimal, and that eliminates too many options. What sense does it make to pause 5 GHz and not be able to also pause 2.4 GHz? It makes NO sense!\n\nI generally max out at 4 devices connected to my home network (400 Mbps) at a time. Usually, only three of those devices are active at once. Eero has a clear bias, locking my iPhone in the 5 GHz band and VERY regularly switching my Android down to 2.4 GHz. I use my Android the most and it needs the bandwidth that it constantly gets denied. It NEVER allows my PS4 on the 5 GHz band, but the PS4 can use 5 GHz.\n\nIt regularly bumps my Windows laptop down to 2.4 GHz, and it does the same to my work laptop (a Chromebook) DURING MY SHIFT WHEN I NEED 5 GHZ THE MOST! This causes interruptions during my workday, as told I use that depends on bandwidth stop working, choked out by the 2.4 GHz band. Can I manually change this? NOPE! Amazon thinks it can manage my home network better than I can.\n\nI'm literally the only user! My network isn't remotely crowded. There's no good reason for these constant downshifts. The device isn't damaged, clogged with dust, or placed in a bad spot. I'm tired of having to restart my entire network to get my devices back to 5 GHz. That's what's REQUIRED to fix this. That doesn't make sense! It also gets me in trouble at work! STOP THIS!\n\nIf 5 GHz is available and not crowded, it should push everything to that band. According to my search, this setting was once available and would allow forcing it to do this. Where is it now? POOF! Removed. Why? I can't change it from the device list either. By the way, it's during these times that eero tells me that I'm pulling down 476 Mbps! So, it's not my provider either.\n\nOn top of that, eero have my Window laptop a new IP address. That's fine. But now I can't remove the old item from the device list, so it's permanently stuck in there twice. That caused confusion and frustration too. I had to rename it. And because it's literally the same device, I'm worried that blocking the old entry will also block the new entry.\n\nIs it attractive? Yes. It's it easy to set up? Yes. Are some of those controls convenient? Yes. Is it overly stripped down? Yes. Does this decision inconvenience the customer? Very much so. Have I had this issue with any other wireless gateway? Absolutely not; only this one. I wish I could return it, but I missed the window long ago. It's been doing this since one of the summer updates, and it's probably going to be a permanent problem.\n\nDon't fix what isn't broken because no one is going to want to fix it later. I'm not upgrading to future versions. I'll be changing brands instead. Way to get in your own way - and mine.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great",
+			"body": "Best thing about the eero is that it works & reaches outside my ring doorbell",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Connection",
+			"body": "Works great!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "DISAPPOINTED - CONNECTIVITY ISSUE",
+			"body": "Initially, the product was flawless and met my requirements. When I recently purchased a SONOS ROAM wireless speaker, I sadly discovered it WOULD NOT work when the EERO GUEST NETWORK Option was ENABLED. After seeking help from both vendors - still no solution.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Unreal",
+			"body": "I doubt at time of purchase this little thing would do what I needed wifi to do.\nWell within 10 minutes of installation, all devices in house had been connected and working that I couldn't believe it.\nI'm still amazed. It has been 2 weeks sine installation and everything is is great.\nThe app makes set and putting names on devices so easy. Blocking is cake work.\nI would recommend this product again,\nNote there is a charge if you elect for more security.\nThat is up to you.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Awesome product honestly recommend to my family and friends 🧡",
+			"body": "Awesome product honestly recommend to my family and friends 🧡",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Just what my WiFi needed!",
+			"body": "I can't believe how this has changed our wifi reception and connectivity. We have a 1900 sq foot single-story house and there are dead spots in some of the rooms and patio and I just lived with it. UNTIL we started experiencing connectivity issues and slower response time on our YouTube TV, smartphones & and tablets. Our local tech guru was here updating a computer for us and he mentioned checking the Eero mesh router to eliminate our issues. And it resolved everything once we set it up. We are seniors/older people and think we are pretty tech savvy, the initial setup was easy however I didn't know I had to disconnect my old wifi signal on my router (we purchased one so all we use is our Internet service provider for is wifi) so that Eero mesh router would take over. Now that I resolved that, with our tech guru's help, everything is running terrific. Small price to pay for seamless connectivity. We purchased 3 of them and for our size home, it's perfect. Of course, I paid full price...should have waited for Black Friday or Cyber Monday.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Excellent",
+			"body": "Excellent product, exactly what I needed. Already recommended it to several people",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Self-configuring but…",
+			"body": "…switches from 2.4 to 5G bandwith in background which sometimes confuses my xbox one—have to search for signal again in settings…. Not an issue with other devices.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Poor quality, doesn't last, slower speeds",
+			"body": "From day one, speeds were slower than my Google Nest Mesh. Google nest worked for 5 years and was very happy with it, but stopped working and had to buy a new system. I decided to try eero for a quick solution.\n\nAlthough it worked, it was slower than the google system. I was ok with that since I'm not running a ton of high bandwidth. But this was my first disappointment with it.\n\nThen I realized that EVERYTHING costs extra. They want you to pay monthly for all the features I had included with Google.\n\nAfter exactly 1 year of use, I started having technical problems. I contacted tech support. Although they were fairly responsive, their only course of action is to continually try to troubleshoot and make you wait 24 hours before doing anything else. it's now been almost 3 weeks of \"troubleshooting\" with no fix or solution of any kind in sight.\n\nEven though it's very clear what the issue is, with the master unit needing replacement, my last straw was today when they said to try a different power supply on the mesh unit. I'm done. I cannot wait any longer for them to waste my time. I bought a new system today that will arrive tomorrow and I can't wait to throw this one in the trash.",
+			"rating": 2,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Excellent wifi extender",
+			"body": "I brought this extender to help with reception in my bedroom. I was constantly losing the signal on my TV. I checked for over a week and the signal was constant, more than five times the original signal.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Love these! Very easy!",
+			"body": "Super easy to set up, especially if you use other alexa devices. Everything connects easily. I have the pack of 3 spread through a 1500 sq/ft space. Probably could have just used 2 but the pack of the was a good deal and gives every more coverage.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Terrible.. not worth your money or time",
+			"body": "I bought this back in June 2023. For my small 700 square-foot apartment, I had the intentions that the router would be able to reach to my living room, but it does not. It doesn’t even reach to the other side of my apartment. I had to buy an Amazon Alexa dot just to be an extender to get Wi-Fi into the living room and kitchen… I’ve had many problems with this router. I ended up putting it in my bedroom because that’s where I have the most devices, and it barely has connection to my TV, which is less than 3 feet away from it. It takes forever to restart. it’s always in and out and you never have a stable connection. The only thing that I could say that I like about this product is the app is very easy to use and I like the fact that you can pause and block devices that are connected to your router. but other than that I don’t recommend this device. There are plenty of Appert and way better routers out there in the market. I just bought a $30 router from Walmart and it works so much better.",
+			"rating": 2,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Love it!",
+			"body": "Easy to set up with the app. I just wish it came in black so as to not be so visible, but it works like a charm.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Plug and play, easy setup!",
+			"body": "Play Video\nsimple plug and play, easy to do land connect in minutes, always has a wide range! Definitely recommend.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 1,
+			"isAI": 0
+		},
+		{
+			"title": "4 stars. Great mesh system, weak on features.",
+			"body": "This is a great mesh system if you want to replace power-line adapters.\nYes, you can use these are power-line adapters. Buy 2 Mesh Routers, set one up and hook it up to your existing modem/router. You can set the 2nd one up in the app, and place it wherever. It will provide better speeds than any powerline adapter will ever hope of achieving.\n\nPros\n- Small router\n- Easy to install\n- App is easy to understand for setting up the router(s)\n\nCons\n- No features like changing channels. It automatically goes to HIGH channels. You CAN pair it with other routers, but know that your other routers will need to be on LOW channels to prevent interference.\n\n4/5 for me. Would recommend if your carriers equipment is downstairs, and you have horrible signal to the carriers network equipment from upstairs. This will 100% solve the issue. ATT Fiber 1gig, I got the 550Mbps Eero Mesh Routers, and I get 350Mbps-400Mbps down, and 350Mbps-450Mbps up.\n\nThe 550Mbps model was the only one with same day shipping, otherwise I would have gotten 1Gbps or 1.5Gbps to test. But the speeds are fantastic.\nThe power-line adapters I was using (from downstairs to upstairs, so this is no surpise) was 25 down 25 up on the same network. These will 100% replace powerline adapters IF YOU GET 2 ROUTERS.\n\nThis is my setup,\n\nDown stairs-\nCarrier equipment, modem/router to\nSwitch to\nEero Mesh Router 1\n\nUpstairs:\nEero Mesh Router 2 connected via Wifi to Eero Mesh Router 1 to\nTP Link Wifi 6 Router via Ether.\n\nSo 4 routers in total. 350-400Mbps speeds, no interference since everything is on a different channel.\n\n4/5 stars because I can't change the channels on the Eeros myself. I hate automatic as being the only option.\n\nWould recommend though.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Best valued product of its kind.",
+			"body": "I'm happy I ended up getting this over the Google WiFi (the only similar alternative I can think of), even when I'm more of a Google fanboy. I'm a little disappointed in the WiFi signal strength (why I ended up getting a second one), but I do happen to live in a 2500 sqft house (1-floor) with a lot of partitions and corners (and it's not a new house (tough materials)). So, my experience may not be the same as another. But, the WiFi signal is indeed stronger than a three-band router of yore that I used for a very long time before hand. 1,500 sqft range out of the box for one of these isn't really bad for how much it costs (a far more expensive \"traditional\" router looks to be always a minimum of 2,000 sqft these days). The cost of the device is a very amazing deal for what you get. The best benefit you get from these is the amazing ease of setup (it does bluetooth to your phone), control with the phone app (you can see everything that's happening and how it's all connected), and the AI that this device has to do a very fine job of balancing your bandwidth with the type of devices you have across your home (be sure to tell it what kind of device is hooked up as it doesn't readily identify the new connected devices very well (like if it's a TV or game console) (and with working together with an additional unit, which is the main reason to get a mesh system; along with the affordability of it). Bottom line: if you want a Mesh System with an internet service that isn't a Gig, than this is perfect for you (they have a 'Pro' model that is probably for 1gbps internet). Heck, make the hurtle, get in with the Mesh, and you will never go back to the traditional way again! One of these is also really the only way to go for a router in a small to average sized apartment in my opinion. Plus, you need the extra security and control in a router if you're living around people in an apartment building (you can subscribe to a very affordable plan that increases the security on your router (to including giving access to a VPN)).",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Outstanding",
+			"body": "Easy to setup, clean GUI.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Fixes issue with T-Mobile Home Internet & Amazon devices not working",
+			"body": "About a month or two ago, my dad's Alexa devices stopped working with his T-Mobile home internet. We tried factory resetting them, splitting the 2G from the 5G, and creating multiple home networks within the T-Mobile app. Nothing worked. I found a reddit post where someone had recommended adding an additional router and we picked this one. It was a steal at $40 post Christmas, and fixed the problem within 5 minutes. All devices successfully connected!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy Installation",
+			"body": "Installation was simple and fast! WiFi connectivity has been more than adequate with one router in my 1200 square foot apartment!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great router system!",
+			"body": "This 3-pack EERO router system has outstanding functionality. It replaced a name brand router and several extenders. The units were appropriately placed in a 2-story, 3600 sq ft house and there are no dead spots. Download and upload speeds are fast. The units are small and have no external antennas. The app is outstanding. Setup was simple. Highly recommend.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "This little thing changed my life.",
+			"body": "Quick little backstory, I live in a 2 bedroom house, its not a huge house by any means. Nevertheless my AT&T Modem had only acceptable range and ok speeds at best. The 2 bedrooms were ok but the kitchen and the living room were kind of spotty, the living room was ok most of the time but the kitchen was pretty much a dead zone.\n\nI switched over to Spectrum and the 2 bedrooms (which is where the modem is) had pretty good speeds, it wasn’t perfect but nothing really to complain about except when it came to gaming, I had the occasional “connection error”. The living room had acceptable speeds however the range wasn’t the best. For example just simply moving from one sofa to the other would sometimes cause the connection to be lost. And the kitchen, well it either worked ok 50% of the time. And the other half it just would not stay connected.\n\nIt was very frustrating to say the least, and I was not aware of any solution at the time. I thought I was just unfortunate to live in an area where the internet connection sucks for everybody and that nothing could be done.\n\nSome time ago a video ad for the Google Nest wifi came up while I was watching YouTube and I was immediately intrigued. I did my research and I very much liked the idea however it was a bit too pricey for me, so I thought I’d either shop around for a used one or maybe save up or just forget about it. While I was searching around on Amazon I stumbled across the Eero, I read reviews here and watched reviews on YouTube and I was sold. I had an Amazon gift card which knocked out a few dollars on the $80 Eero which was nice!\n\nThe installation was very easy and even a little bit fun, the instructions are super clear and simple. The app is also very well optimized IMHO.\n\nI immediately tested and compared, and also just carried around my normal routines and I have found that this Eero is worth every penny. I was getting speeds of 21.3 mbps in my living room, now I am getting speeds of 205 mbps! I am happy to say that I no longer have weak or dead spots in my house. Even the kitchen has a strong connection.\n\nAnd keep in mind that I only purchased 1 device, whereas they’re meant to be in packs to further strengthen the connection. I am considering doing this but for the meanwhile I am a very satisfied customer.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Good",
+			"body": "Good quality",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Nice Little Modem",
+			"body": "My new IP recommended this little modem and it works like a charm. It wasn't expensive and came in two days, which we needed.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works great",
+			"body": "Very pleased.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Still don't have complete coverage in small house.",
+			"body": "just not as good as I expected. For no bigger than my house is still have difficulty in certain areas.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Frustrating",
+			"body": "Every 4 days I have to reset it. They told me because it gets hot but it's meant to get hot. It's meant to be on 24 hours then it won. The last says my service. No it's not my service cuz I don't have problems with my service then they talking about me sending it back. But if I send it back I won't have no service at all until I get another router. I am disappointed",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great replacement for router",
+			"body": "Had a net gear router, it went bad. Replaced with eero and the Wi-Fi is great now. I used the 3 pack and it's been seamless. Great packaging, simple to install. The eero app is great... nice features. I would buy again.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Amazing. Just buy it",
+			"body": "This is a fantastic, very easy to setup wireless router that likely blows the pants off of the router built in to your cable modem or whatever old wifi router you've been using for a decade.\n\nWe used the app to setup profiles (Kid1, kid2, kid3) and entertainment (Apple TV, Roku, Nintendo Switch) and streaming music (Alexa, Google home, Apple HomePod) so its just a couple taps in the app to shut off internet when its time to go to bed, time to do homework etc. Currently we have kid profiles set to turn off at bedtime because, well, its bedtime. Our Eero is so centrally located we're currently just using one, but if we notice any slowdowns we'll add a Beacon or another Eero upstairs which, judging by the app, will take about 20 seconds to do.\n\nAlso, Eero now offers some phishing, spyware, adblocking etc for just a couple dollars a month as a subscription. Knowing what my teenagers are likely doing on the internet (and they won't take computer security seriously, at all) this is easily worth the money. They also offer content blocking (adult, violence, etc). You can look in the app and instantly see how these things are working -- how much spyware or adult content was blocked for example.\n\nI've used a ton of different routers over the years, including 2 Apple Airport, Ubiquiti, Linksys, Netgear, and plenty of others. Nothing was even in the ballpark as easy to setup or as full of features. And at an amazing price. Unlike some of the Wifi Routers that have a million antenna on them, this is good looking and small. if we need more coverage, we can just add what we need to the house, when we need it.\n\nHighly recommend. 5 Stars.\n(bought my own, not a review unit. Ex network security engineer)",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Sleek but fails too often",
+			"body": "Its pretty fast, simple, looks nice but I've had it less than 6 months and it goes down about every 10 days for no obvious reason and needs to be power cycled. Not a huge deal but it doesn't bode well for long term viability as I've never had this happen so frequently in a router less than 5 yrs old.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy setup! Great speed!",
+			"body": "Replaced my router with this one. Very easy to set up. I also purchased an extender plug in. I watch my fire tablet while walking on my treadmill which is located on other side of house. It loads my streaming services immediately and I never get the spinning wheel like I was with old router and extender. Highly recommend for price and performance.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Best route/extender I've bought",
+			"body": "I have bought many extenders .. for 100+ dollars and had issues with them all .. this one is excellent.. only had one issue where I couldn't set up one of the \"pods\" and after a bit more trying I got it all figured out. But definitely have to be a little more tech savvy to set them up .",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Saved me hours of setup time",
+			"body": "I changed my router (from wired to VZW Wireless 5G). I had a lot of devices connected and didn't want to have to go through changing all the ids and pws. So, I got this thing and set it up so that it had the same id and pw as my old router. Everything just worked. In minutes instead of hours of frustration.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great for not so savvy household",
+			"body": "I installed this for my grandparents house.\nThey no nothing about wifi.\nI can manage this remotely if they think there is a problem.\nI keep an eye on it to make sure no one is connected that is not supposed to be.\nIt's been rock solid for months now.\nI did have an issue getting it set up, but tech support got me going right away.\nI think I just had to reboot everything after the initial setup and I was able to mange it with the app.\nVery simple solution, whatever it was.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "mesh router",
+			"body": "I bought a three pack to cover the space in my house. They set up easily but the instructions were poor at best. I had to call to get help and then they were fine. BUT, after set up I still didn't have the results I wanted, so I'll have to get someone else in to see what needs to be done .",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Router",
+			"body": "Worked great with my other router. I love it.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Seriously impressed!!",
+			"body": "Update: took a star off as there’s a glaring omission in the parental controls section which basically makes them useless if you have the average teen with half decent google skills, there’s no way to automatically block new devices by default so all your kid has to do is change their MAC address and they’re back online! It does flag that address as a new device so you can easily see what’s going on and react but it’s in no way set and forget which is what I was really hoping for! Eero/amazon you can have your star back if you fix this simple feature request.\n\nSeriously impressed with this thing!\nWhen we bought this our service was 175mbps which this provided nicely after a couple of weeks we upgraded to gigabit speed , now this model is only recommended for speeds up to 550 so I started looking at alternatives while waiting for the upgrade to take effect. Ordered a TP-Link ax10 as on paper it should’ve out classed the Eero, it didn’t. The eero will hit 462mbps on 5ghz to my pc and wired to my wife’s it hits 750-790mbps the ax10 WiFi 6 to my pc (ax3000 card) hit 469mbps and only 550 wired to my wife’s! The ax10 went back and I’m sticking with this. The coverage is also impressive easily covering our 1600 ft house, the furthest end of the house only used to get 20/25mbps at best now it’s hitting 120/130 without trouble from this single unit. I’d love to see what the pro6 could do!",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works great AND is on 5 and 2.4g.",
+			"body": "I was to dispel the myth this doesn’t do 2.4g because it DOES! I needed this for my smart devices. It’s really easy. You just go to troubleshooting and say you can’t connect. Then you have the option to turn off 5g and switch to 2.4g for ten minutes while you connect your bulbs, plugs, whatever. Ignore anyone that says otherwise. They are wrong. I really like this little router.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Love the Eeros router system",
+			"body": "I live in a rural area and have several outbuildings. The mesh routers are locating in each building, as well as inside a weatherproof enclosure on the power panel. It gets cold in northern Minnesota and haven't had any issues with the outdoor installation. I am able to stream video at my furthest indoor building - ~ 300 feet away., Thinking about installing one in my outhouse to fill any gaps on the property but so far, hasn't been needed.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "You get what you pay for",
+			"body": "I will start out by saying if you are looking to expand your Wi-Fi coverage, consider getting a 3 pack of these. Mixing and matching mesh hardware is a headache. Apps for your network hardware is just as important as the hardware itself nowadays. Eero has an app for installing the node, it is quite simple really. But if there are any issues the app is not any help in helping you find the issue. It just tells you to call tech support, instead of walking you through the process of trying to figure it out. What if you do not have time to call tech support? On the app store the Eero app only has a 2.8-star review. If you get this your kind of dependent on the app. The hardware itself is actually pretty good for what you pay for. Capable of decent speeds. Would love to give this a 5-star review, but the app that you are depending on during the installation needs work! Certain contingencies must be fixed, during the setup there are 2 instances that require Internet connection to complete, and your setup of the network is not complete either. What if your cell phone does not have good cellular internet? Your network is still not complete. Looks like you are going to have to call tech support, because the app will not let you skip it until your network is complete. Like I mentioned the hardware is good, hate to base the review off of the app. But the product is DEPENDANT on the app, and it should be fixed.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Plays well with my smart home",
+			"body": "For years I’ve used an Apple airport time machine. I loved that thing but they quit making them in 2013 and also stopped updating the software. The auto backup feature was very nice and reassuring.\n\nOver the years I’ve begun to turn my house into a smart home. For a while my airport seemed to be playing nicely with all of my new devices. Then, gradually, newer devices that I purchased started dropping constantly. WiFi switches, WiFi plugs etc. I thought that it was the cheaper brand switches that I was buying and it never occurred to me that it was the router.\n\nEnter eero. I don’t even remember what prompted me to look for a new router but I’m so glad I did. I used to have to reset all of my WiFi plugs every few days. They would just lose connection. Not anymore. I have 50+ smart devices in my home. Everything is smart enabled and this little router is able to manage them all. No issues.\n\nI’m able to view and manage all of my smart devices with the eero app. It’s very convenient. I get alerts if anything new connects or wants access. It seems very secure.\n\nI have the option to create profiles so I can pause groups of devises. I get that this could be helpful for parents with children.. but for me I don’t have much of a use unless I want to use Alexa to mess with my boyfriend and turn off his access. But I would never. d: I do however like that I have the ability to ask Alexa to restart the router although I have yet to find the need to do this so far. My old router had to be restarted all the time. So far so good.\n\nMy only con it that there are only two Ethernet ports. One in, one out. So I had to purchase a tplink switch for extra ports. My airport time machine had many ports but it was also over 3x the price of the eero originally. The tplink switch was only $16 so not a bad compromise.\n\nOverall I am very pleased with this little router.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Better than anticipated",
+			"body": "I used this product to spread my WiFi throughout my home. This product is very easy to install and fixes my WiFi issues immediately. I would highly recommend!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works Great",
+			"body": "The WiFi signal I was getting from the Spectrum device barely made it 20 feet. This device covers the entire condo.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy to install",
+			"body": "Thus router works great and most importantly it was easy to install even for a person that is afraid to mess up electronics. Great product.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "worked great",
+			"body": "my internet provider recommended and they work great",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Unbelievable",
+			"body": "It is a must buy product",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Hard to say",
+			"body": "Really not sure if it boosted my LG smart tv signal much. My tv still scrubs even after i turned on eero. It may be working, but its not super powerful.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "did nothing",
+			"body": "it was a waist of money.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Just what I needed to make my T Mobile 5g service useable in the entire house.",
+			"body": "The placement requirements of the T Mobile 5g cellular router ( in a window facing the signal direction) meant that the router had to be all the way at the back end of my house to get a strong signal but the routers Wi-Fi signal on the opposite end of the house was pretty weak. The eero system was just the ticket. The set up of the eero system was extremely simple and was up a running in about 20 minutes. The app does most of the setup. Just connected the first eero to the router with a Cat 6 cable and the other 2 units are connected wirelessly.Now the Wi-Fi signal is evenly spread out through the entire home.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "This was excellent, affordable and easy to set up.",
+			"body": "This was an excellent, affordable, easy to set up and arrived right away too.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great device, but has one major issue",
+			"body": "Have had the Eero in my house for a while and was very happy. My first one lasted about 2 years before it died, but for $50 bux that is all I expected. Took me 45 seconds to set it up and it was working well and had better coverage than similar wifi routers.\n\nMy problem is this: WHEN I LOSE POWER THE ROUTER NEVER RECONNECTS TO INTERNET. It appears no matter what I do (I have tried everything including factory reset) it will not connect to internet. Suprisingly it appears as though the ethernet ports just stop working (no more link light on my modem).\n\nGreat thing about being am Amazon product is I can buy a new one and it will be here next day. New one arrives and 45 seconds later I'm back up and running.\n\nNot sure what is causing it, but I tested my new one by unplugging it and plugging back in and sure enough, unit will no longer connect to internet, same issue with ethernet port dropping. now I have a battery backup on it so it doesn't go down again. Very weird problem.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works wonderful and set up was so seamless",
+			"body": "It came quickly and signing in with amazon was very convenient. It's much faster than my old router. If you're in a rural area like me, it does work with my mobile hotspot which was a deciding factor for me",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy to use",
+			"body": "Easy set up and a lot of features!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "It should have always been this easy",
+			"body": "First off, this is a legit review.\n\nBought 1st eero as a new router. Easy setup. Decided to buy a second one to try the “mesh” network.\n\nIt actually worked. I’m not tech-friendly at all really. I called support, and BEST SERVICE EVER!!\n\nBlown away.\nNow listening to music on my deck, like I was right under my router.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works great!",
+			"body": "I love it. It comes with the ethernet cable and it was super easy to install with the app. We have the modem and router in the living room and couldn’t get WiFi in our bedroom with the old router… this is game changer! We have full WiFi in our bedroom and it’s been working so fast on all devices! Amazing product!!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Super Simple and Very Fast (compared to my old one atleast)",
+			"body": "For context I was previously using the old Actiontec router from Verizon so that is my point of comparison on this review. This Eero is a major upgrade from that.\n\nFirst, the setup is super simple (as long as you have ethernet running and not coax, if you have coax, you've got some googling to do). I plugged Eero in to the Verizon ONT, downloaded the app and it walked me through the setup, taking all of a few minutes in total. Through the app you can see every device connected to Eero, and control their access to the network, and setup parental filters on an individual basis. You can setup a guest network that has limited access too if you don't want to share your actual home network with visitors. There is also some subscription service that offers extra security settings I haven't bothered with too much.\n\nAs for the speed I can say that mine went way up. I have Verizon 100/100 and with my old Actiontec I was barely getting 50/50 on Wifi. I know Wifi will never be as fast as wired, but I felt like this was too slow. Now with my Eero I am actually reaching that 100/100 over Wifi, on the 5 ghz band at least. Obviously one reason for this speed increase is the superior tech vs my old router. But the other reason (and the main reason I bought this product) is the placement. Because this doesn't look like an insectoid alien spaceship, I am able to keep this router out in the open in my living room, where 80% of my wifi device usage takes place. This lets me use the 5 ghz band almost all the time and that gives me access to awesome speed.\n\nFinally a note on coverage, I am in a 1500sf ranch home and have no issues getting coverage everywhere in my house with just 1 Eero placed centrally.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great little gadget",
+			"body": "This eero mesh router is one of the best things to invest in. I've been using a Netgear N Router WNR2000 for years (I mean over 10 years) and it did not let me down until it became old and not keeping up. I did my research on the eero mesh and thought I give it a try to upgrade to a steadier Wi-Fi system. I have a two bedroom flat and I wasn't getting coverage from my old Netgear if i went to the bathroom. My mobile phone would try to connect to my sister's router who lives downstairs from me. With this new router, it picks up on all the blind spots through out your house. If you have a larger house more then 1500sq feet, extenders should be put in place. As they will only require a power cord. It's easy as they say it is to set up. Download the Eero app on your mobile phone and just go by the easy instructions indicated to you. Less then 10 mins to set up. I am very happy with this product, now that I get full coverage within my flat and in the front part of my Brownstone building. There is however a subscription for added security. You figured it will come automatically. None the less the few dollars a month will not break me (or you) for the added security to keep the system running as guaranteed. You can control your settings right on your mobile phone.",
+			"rating": 5,
+			"hasImage": 1,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Works perfectly for me so far. Great app.",
+			"body": "I saw some mixed reviews, but I have had a great experience so far. I had a decent $100 router before, but the power went out and it somehow fried it. I was having some issues with my old router getting my 2 Echos to consistently stay connected as a stereo pair to play the audio from my fire tv stick. This router was easy to set up and it's worked perfectly with perfectly playing my audio through my echos.\n\nI like the app. It is easy to set up amazon devices and to see which new devices have connected through the router. You can limit certain devices access through here, and there are some rudimentary security controls. I will not be paying for the security subscription, however. I do like the app better than having to go through the IP address on my PC or whatever. I have so far had no disconnections, no speed issues, and nothing that I had to reconnect or lose access to. Hopefuklly it stays that way.\n\nI do wish it had multiple ethernet connections on the back, but I do not need them currently. If I needed them in the future, it'd be nice to have more than 1 output total. I am using this with a 200mbps connection with Spectrum. So far, zero issues. I even like the futuristic look of the thing and how small it is. I placed it on the side table, where I used to hide my old router on the bottom shelf.\n\nFor the price, I really like this. I especially like the easy access to amazon devices and how well they pair and work with this, as I have numerous echos and echo shows in my apt. That integration, for me personally, is fantastic.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Too confusing for me",
+			"body": "Too confusing. I couldn’t get them to work. I had to return them and hire a professional.",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Better than most",
+			"body": "I had high hopes for this product. We have an older, 2 story home with plaster walls and tin ceilings - a nightmare for broadcasting wifi. Add to this I work in an office behind the garage, about 75 feet from the house. Originally we were using all the equipment that came with the high speed package offered by Spectrum. My husband and I both had to start working from home using Zoom when the pandemic hit. It's not that we are gamers or have many devices. We needed strong WiFi and better upload speeds. We tried several different configurations that always included a Net Gear modem, a router and a wifi extender. We just kept believing it could be better. When the Eero price dropped, we purchased the Eero system plus one additional Eero - and returned the Net Gear Night Hawk. Now we use the Spectrum modem, one Eero as out router and have the other 3 Eero pods positioned around the property - one upstairs, one downstairs in the kitchen, and one in the garage right next to the door. Our downloads speeds around just over 100 but the upload maintains a steady 20+. It's not perfect but it is the absolute best combination I have tried - and believe me I have tried many.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Awesome for an Extender for the Mesh",
+			"body": "Play Video\nAn excellent addition to you EERO router. If you need to extend your Wi-Fi and want an EERO extender, then this might be what your need. I selected the router as it has 2 ethernet ports where the extender does not and it was a bit less expensive. Increase coverage to the office area easily.\nSimple to connect and setup with the phone app. I highly recommed looking at the EERO's if you are looking to upgrade systems or if you already own one and want to create a mesh network.",
+			"rating": 5,
+			"hasImage": 1,
+			"hasVideo": 1,
+			"isAI": 0
+		},
+		{
+			"title": "works but not as well as expected",
+			"body": "got one of these to go with the existing eero router.\nhad to mess around with it quite a bit.\ntrusting their marketing, i expected a lot better results\nit did improve the result in the family room and kitchen that were low before\nhowever the signal strength was not that consistent\nmost surprising was how close i had to put the extender to the main router\nhowever, it was good enough for having 5 devices and definitely better than before.\n\nnote that we dont even have a 4k tv so our requirements are less than most, but there are quite a few walls",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great dead spot solution",
+			"body": "The Eeros were super easy to install and solved my dead spot problem. They will save me a lot of money. My ISP wanted to rent me 2 Eeros for $10/month plus a $10 shipping fee plus a return and restocking fee if I returned them. And, I would never own them. The one time cost to buy on Amazon, with the option to return them free if they didn't solve my problem, makes buying them an easy choice. As others reviewers said, you need 2.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Blankets Your House With Dependable Wifi",
+			"body": "I have a big, old Victorian house with thick plaster walls. I don't just have dead spots, I literally had a whole dead floor for ten years. I had cable experts come out, I tried a series of routers and extenders but nothing worked well. Then I bought my husband a Ring Doorbell for Xmas. I didn't even realize it was going to need a great wifi connection and the front door is a million light years away from the modem and router. So the company suggested we get Eero. We were skeptical but boy were we wrong!\n\nFirst, the company sent us the Eero Pro pack because our wifi is so crappy. The base is connected to our Verizon modem (they give u online instructions on how to set up to most systems) on the 2nd floor, Then we have the beacon plugged into a wall socket in a hallway to be close to the doorbell. Perfect! (It's miraculously also on the 2nd floor.)\n\nThis set up gave us exceptional internet for most of our devices throughout the house, EXCEPT 3rd floor and outside on the patio. So, I bought 2 additional regular Eeros which connect seamlessly and quickly to your existing system. One for the kitchen which is adjacent to the patio and one for the 3rd floor. Now we have super fast wifi throughout the entire house and even in unattached garage/loft area.\n\nPlus, this system works seamlessly with most Amazon products, so with the click of a button on your smartphone in the Eero App, your system will connect to all of your devices such as your dots, speakers, plugs, lights etc. It literally has your whole house on speedy wifi in less than 10 minutes. The easiest set up I've ever experienced. Highly recommend.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Happy",
+			"body": "Wow! I love this Eero router which I bundled with the new Echo Dot on Prime Day sale. A couple of years ago I ordered a brand name router which I had the hardest time putting together. I returned it. This is a plug in that takes little space, a good looking device that takes only a few minutes to work. No more TV buffering or slow downloads and it fully covers my single level house. I had to wait a bit for the new Echo Dot which came a couple weeks later - also able to set up lightning fast. Both devices are cool looking (although the Echo dot's color is labeled glacial white but seems more gray) and were well packaged. May buy an extender in the future if I am expecting family visits as they all have multiple devices but I am set for now. Price was great. I am 72 so know it is great for seniors.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy solution for a house with thicker walls and lots of interference.",
+			"body": "This product installed in less than 30 minutes for all three units that I integrated utilizing the phone app for settings. It immediately improved BW in all areas of my house and yard. In fact, my Family Room TV, which was in room directly below the Verizon Internet receiver, was having buffering issues before the installation. Now, with the Mesh system, zero buffering anywhere in the house. We are seeing greater than 350Mbps down load speeds everywhere now.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Must be plugged into router",
+			"body": "I was looking for something for my security cam that’s in another room. This isn’t going to work because it has to be plugged into modem in the other room. I have no idea if it works, I’m sending back",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy Setup, User Friendly App & Away we go!",
+			"body": "Okay, I did a lot of research and reading about mesh systems to educate myself on what I was getting into and I have to say that I was a bit nervous after reading about the various problems that people have had setting them up and connecting all of their devices properly. I worried for nothing! In fact, my Ring 3 Plus Video Doorbell was delivered on the same day and I set them up simultaneously.\n\nI found out that Amazon's Eero Mesh system was voted almost unanimously by tech mags and reviews to be in the top 5 of the best and affordable. I ordered 2 Eero \"super-routers\" which are more than adequate. I downloaded the Eero app and followed the directions and the entire setup was pretty seamless. I'm still bugging my son to move his PlayStation over to the new network but everything else is there.\n\nI called customer service to make sure I did it all correctly and they told me the same thing that I had done which was to put my Xfinity modem into bridge mode to force a handful of devices to drop off the old network so I could sync them on the new Eero wifi.\n\nI was having a lot of problems with setting up a couple of cameras a few weeks ago and then when I finally connected one, BOOM! Another would drop right off and that continued to happen with all the smart bulbs and my printer too. Since the Eero has been set up everything has been running smoothly.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Not as great I as I hoped.",
+			"body": "So this mesh router works. However and I am not super tech savvy so bare with me. I need something simple I know computers and wireless networks but I am not a technical specialist. We ended up needing two routers because of the size of our house. Which ok no problem but that didn’t fix the drops in internet speed randomly all day. The best way to ensure that doesn’t happen is to hardwire into the router. Which comes to my next issue. There are only two Ethernet ports on each unit. Not enough! Also my cameras and Alexas don’t get connect. I was told with this being a mesh router the router decides what hz to connect to each device. Well my devices don’t like this. Our cable guy had to set up a special network that is specifically 2.4 so that my Alexas and cameras work. This was a lot of hassle. They do what they say mostly but as far as I am concerned are not user friendly.",
+			"rating": 4,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Nice - but PLEASE READ THE DEAL-BREAKERS",
+			"body": "I was trying to rule out router problems with my internet so I ordered a new router - the eero. (Turns out nothing was wrong with my old router, it was a radio issue.) So I hooked up the eero and found a lot of deal-breakers (for me).\n\nPROS:\n• It was easy to set up. Seemed to be very slightly faster than my old Netgear Nighthawk, once it kicks in\nbut seems to have a bit of a lag time.\n\nCONS:\n• Eero is a closed system. Only Eero extenders will work with eero router. Will NOT work with TP-Link extenders or any other brand other than eero. For me, it did NOT cover 1500 sq.ft. I had no internet at the other end of my house (one story) so would have needed to purchase the eero extender (Beacon) for $99.\n• THIS WAS THE FINAL DEAL-BREAKER - It is NOT a VPN compatible router! Description says that it is, but that's a half-truth. It will ONLY work with their (eero aka Amazon) security app which you have to pay for monthly. It ABSOLUTELY will not work with Express VPN. Last thing I want to do is hand off my VPN to Amazon.\n• Auto updates are automatic and you can’t turn them off (even if they are at an inconvenient time!)\n• Seems to disconnect quite often and I have to log in again.\n• Each day, more compatibility issues popped up. Too much of a headache.\n\nThere are substantial amounts of blogs regarding the issues with this system so please do your research. I have heard that people who buy the entire system (router with extenders) seem to like them for a while, but too many deal-breakers for me. Returned the eero and went back to my Netgear Nighthawk and everything works seamlessly. Don't know anything about mesh routers, but I'm happy with my old system.",
+			"rating": 2,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Finally my problem is solved!",
+			"body": "I have about 10 Amazon Echos in my apartment and have grouped them by room, but I also enjoy listening to the music \"everywhere,\" so no matter what room I walk into, I'm greeted by my tunes. This was problematic, though, because the more echos I acquired, the more frequently the \"everywhere\" function would experience drops. I upgraded my internet speed twice, to no avail. I purchased an extender, but that was a fail for \"everywhere\" because all of the echos must be on the same network...not an extension of it. I was frustrated to no end until I tried eero. This mesh router has cut drops to almost zero, and when they do occur, it is only for seconds as opposed to minutes at a time. I can count on one hand the number of times I've been this gleeful over a purchase. I understand that all of our connectivity issues are different, but if any of this resonates, please do not hesitate to switch out your router for the eero.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Surpassed my expectations!!!!",
+			"body": "I have loved in my house for 17 years and I have never been able to get Wi-Fi in the back bedrooms. I decided to take a chance on Eero. Had trouble getting the first one connected to my modem but called their customer support who took their time and walked me thru setting up all three. For the first time in 17 years I have full strength Wi-Fi in all rooms in my house AND the back yard!!!! Amazing product!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Excellent router to improve homes with less than great wiring.",
+			"body": "We have minimal internet options where we live, and this was the ideal option to balance our internet speed out and prevent drop off issues. We have been using it for quite some time now, and it has infinitely improved our internet issues, save for drop offs due to excessive use. It WILL NOT increase your speed, but it will balance out the issues with it randomly shutting off, losing connectivity, etc. The older models also WILL NOT replace your internet provider given router. It plugs into it and piggy backs off of it. As an additional unexpected perk we were not expecting, it also came with network customizations, so I was able to put all of my nieces devices on the same network profile, both so I can moderate their content access, and shut off their internet access at a certain time each night. It is a very handy feature for guests (especially kids) when you need to moderate when they can and can’t access your internet.\n\nA couple years after this review and we have upgraded to a 2nd wireless eero to put in the bedroom and supply internet to some devices that required a wired connection since moving our router wasn’t an option. This tied up with our existing eero very nicely and solved our issue of needing more wired connectivity across the house. Being able to turn off the LED since it is in the bedroom is also a nice touch so it’s not blinding me at night.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Our WiFi was throttled after quarantine. Eero came to the rescue!",
+			"body": "We were having trouble with inconsistent WiFi signal. You don’t realize how many things are on WiFi until something goes wrong with it. Alexa has to keep reconnecting, the Chromecasts, all our TVs are connected, etc.\nI tried troubleshooting our router and called our internet provider who sent us a new router to no effect. I finally gave up and switched internet providers with no improvement. In retrospect I realized this all started with our state, CA, closing after reading an article saying that providers are throttling WiFi since many are working from home. If my provider had told me this when I first called it would’ve saved me a lot of time and trouble and they would not have lost a customer. Way to go Frontier.\nI looked for a solution on a neighborhood blog and one of my neighbors suggested a mesh router and specifically recommended the eero.\nI’d describe myself comfortable with new types of technology but I was not familiar with mesh routers and, frankly, never knew until I started having trouble that I’m not obligated to use the equipment supplied by the provider.\nI ordered my first eero and the troubles I had been having immediately went away. I was also impressed by how user friendly the process was. The app walks you through step by step.\nThe eero worked seamlessly but wasn’t quite enough to reach through to the backyard so I bought a second one which was installed today. I had some trouble figuring out how to add the newer one to the network so I called customer service who walked me through it. Easy peezy.\nThis was money well spent and 5 stars all the way.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Great product",
+			"body": "Highly recommend. Easy to install and working As expected",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "So glad I purchased!",
+			"body": "I've been having intermittent internet issues for months (maybe a year?) and just assumed it was a spotty Xfinity connect. I'm not a tech expert. But - I made a tired, late night purchase a few nights ago as I was having connectivity issues watching TV on my Roku. And, I actually tried to cancel the order the next morning when I saw the order in a more alert state and how much I had spent -- but, it was too late to cancel. I accepted the shipment and wanted to check it out to see whether it was worth the money. Setup was fairly simple (only one little hiccup because I was overthinking the setup but eventually figured it out.) It's only been a few hours but I am SO glad I bought this eero mesh wifi router! I'm too embarrassed to even mention how fast it was before when testing. But now when I test my internet speed, it's almost at the max capability based on my Xfinity plan (264 mbps - max is 300). I HIGHLY recommend.\n\nQuick EDIT: Super pissed that Amazon doesn't offer price adjustments. This item went on sale literally the day after I bought it. I know this because I saw an advertisement in Facebook for it (guessing Facebook picked up that I had browsed it). Anyways, contacted Amazon and despite the 24 hour difference in price, they refused, not even offering an Amazon credit, which I would have accepted instead of refund. Doesn't Jeff Bezos make enough money that Amazon couldn't be a dick like this?",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "T-Mobile 5G compatible",
+			"body": "Easy set up works good. It replaces the WIFI signal though so name it the same and use the same password or else you have to sign all your devices in again. T-Mobile was suffering from a lack of information about their Google nest routers and promotion. It’s a good thing. Service is only 50 bucks a month or else I would’ve canceled it 🤣",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Amazing Wifi Access Point",
+			"body": "This is a very nice wifi access point. I use it in my room and connected it via ethernet cable. It has great range (through 2 floors), fast speeds (i even have bad internet), great and simple interface, the most simple set up ever, has a modern design, and is small and works flawlessly so far.\n\nMy only complaint (which is a small one and may only apply to those with bad internet like me) is that when you use this access point, it takes up a lot of the bandwidth (right word?) available, and playing a multiplayer game requires you to turn it off and use ethernet so that you get better ping in game. Even when you have your computer connected via ethernet, when this thing is on, it will slow down your speeds (again on bad internet) to the point where you will lag quite a bit.\n\nThat being said, outside of online games, the bandwidth consumption isnt noticeable, and it just works.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "They don’t work as well as I thought they would",
+			"body": "I was excited for these and I’m just like.. huh. 🤔 So I bought the Eero 6’s and they barely worked any better. I had to return them and I’m doing a little more research on the best mesh products",
+			"rating": 3,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "This really works",
+			"body": "I have a large house that loses the wi-fi ability upstairs and the furthest parts of the house. With Eero Mesh the wi-fi reaches to every inch of my home. This is worth every penny!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Pleasantly surprised!",
+			"body": "So my house is a two story with a basement. There’s my wife, 4 daughters (18, 15, 13, 4) and myself. Everyone has iPhones, iPads, we stream on fire sticks in rooms on all 3 levels, and I play on Xbox Live.\n\nI was using the built-in WiFi on my Spectrum router and experienced issues with the signal intermittently dropping throughout the day, and it would take 5-10 mins for things to go back to normal. I would wait til 9-10pm to be freed from the toddler and settle down for some Call Of Duty...only to keep losing connection. I finally said screw it, I’m getting a router!\n\nWife said go ahead...$200-$300 max is your budget. I did a lot of research before I decided to try a single Eero. I saw I could buy a second and third if necessary to have one on each level.\n\nI’m happy to say I spent $99 on the Eero back in January and it has been nothing short of a STUD. I was on the verge of running Cat-5 to my man-cave due to all my Xbox issues. No need. I literally plugged this into my Spectrum modem, downloaded the app on my iPhone, and that it was it. This has been a SOLID friggin router and I still may buy a second for the hell of it seeing it dropped to $79. Can’t recommend it enough! The one time we lost our signal and I was about to lose faith...turned out it was an ISP outage affecting my town.\n\nYou won’t be dissaponted!",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Extremely easy to set up and works better than what I had.",
+			"body": "I bought this router to replace Google Nest Wifi. While I have read complaints about the eero app, it is so much better to use honestly and more trouble free than the Google Home app. Setting up the eero was quite literally the easiest router I have ever used.\n\nMy speeds seem faster than with the Google Nest router as well, and even faster than when I used my NETGEAR R7000 Nighthawk that got fried in a lightning strike. My internet service gives me roughly 175Mbps, and I seem to utilize more of that through various speed tests with this than I did with either router I previously had. And while I encountered problems with Google Nest Wifi, I couldn’t seem to fix even with a factory reset, this device hasn’t given me any problems. It is also cheaper than the Google Nest router and the R7000 I had.\n\nI’m amazed at how they were able to incorporate something so good into such a small form factor. Definitely a nice and clean looking device.\n\nMy home is 1,420 square feet. I put this in the center of my 830 square foot basement, and the signal reaches throughout my entire house. Some people may only need one of these depending on the size of their home.\n\nWish eero was still an independent company for obvious reasons, but nothing about Amazon’s acquisition has seemed to affect the quality of the device itself. I do not think you can go wrong with what you get for $99 here.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "routers for dummies",
+			"body": "I needed a new router so I bought this “eero WiFi” System. It came with a power cord and a network cord. It did not include a readme file, a user manual or any instructions on how to access admin menus. A single card said to download the “eero” APP. I attempted to download the APP to my Kindle Fire. EERO was not available from the APP store. I went to the web site, eero.com, to download the APP. After several “successful” attempts, I still did not find the APP on my Kindle. I later did find the APP on my smart phone. AHA! Nowhere, in the ads, sales lit or the box, did it say that I had to have a smart phone to make eero work.\nI plugged in the power cord and attached the eero to my modem. A white light started flashing.\nOK. Next step was to register on-line using the APP. I filled in my name, email address and phone number, then clicked next. Nothing. It told me to click in the box and enter the country code. Which box? I clicked everywhere and got no response. I went through this several times with no luck. So I sent e-mail to tech support detailing my problem. I got back a computer-generated FAQ of irrelevant suggestions. It was obvious that no one had read my e-mail.\nThen it struck me that there was a box with a “1” in it ahead of the phone number, and there was a “v” in it. But that disappeared after I entered my phone number and clicked next. So this time I clicked on the “v” and got a menu of all of the countries in the world. I picked USA, and then clicked next and I was treated to the next step. I chose a name for my router and a password.\nUltimately the white light became steady and I was able to access the internet with my Kindle.\nThis “router” is apparently designed to be used by “know-nothing” users who want “Alexa” to control their households. There is no access to the setup. Having set up at least three routers in the past, I expect to be able to connect my pc and access a sign-on screen with “admin” and “password”. Then I could control channels, time of operation and whom to let in. There is none of that in the eero. Now the APP is inviting me to add “Alexa” devices. But there is no clue as to how to do it!!!",
+			"rating": 1,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "Easy to setup",
+			"body": "Routers are usually a pain to setup and you need a little bit of tech know how to set one up but not with this one. If you can download an app on your device and just plug everything in the device practically does everything for you and walks you through each step.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		},
+		{
+			"title": "perfect for surf internet",
+			"body": "Used this for a second router/access point in my home and it made my signal stronger. Exact same one you get from surf (first one free, second one is rented). Would buy again and again. Didn't try Alexa integrations or call tech support.",
+			"rating": 5,
+			"hasImage": 0,
+			"hasVideo": 0,
+			"isAI": 0
+		}
+	]
+}

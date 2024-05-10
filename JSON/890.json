@@ -1,0 +1,324 @@
+{
+  "data": [
+    {
+      "title": "Great little PC for workstation or media center",
+      "body": "I purchased this for my three young boys. I setup a media center and homework station for them off to the side of our living room. I mounted this mini PC on the back of a 40\" Vizio TV. This mini PC is quite powerful. I haven't purchased a new PC in about 5 years and was pleasantly surprised at how quick this PC actually is. My last purchase was a Dell i7 of some sort from 2018. This new PC absolutely crushes my last PC on the benchmarks and it is simply snappy fast and quite noticeable even when doing simple tasks.\n\nI purchased this during Cyber Week and got an excellent deal. I think for the price, there likely isn't anything out there that is remotely comparable. This little PC is a beast.\n\nI do find the cooling fans to be a bit noisy when the PC is under heavy load, but for our uses, we hardly ever stress the system enough to begin with. The Ryzen 7 graphics are pretty good, and it will run most games on reduced settings. I personally have not tested too many modern games on this unit as of yet, but it does really well with the slightly older games that I might regularly play.\n\nThe case seems quite solid and this PC is really small. Even though it is small, it still has more than enough in and out ports for most users. I have had zero issues with the PC so far, not a single hanging mouse or even a stutter. This is an excellent little machine in my opinion.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Runs Ubuntu 23.10 great. 10X the performance of an rpi5 for 2X the cost.",
+      "body": "I've used Raspberry Pi single board computers for home projects for many years. Finding them very capable machines for most tasks. Recently I was using an rpi4 to serve web mapping software. Then I used the Pi4 to also view the Leaflet based web maps. Worked great. Then I found CesiumJS 3D maps. The Pi4 was now slow. Buying an rpi5 made things a lot faster, but it wasn't smooth yet.\n\nAfter buying a fancy new power supply, uSD card and case for my rpi5 I've spent half the cost of this SER5 5700U. My desktop is an AMD 3600 with GeForce GTX 1660. This SER5 is just as capable a machine, for less than half what I spent on that system.\n\nMy goal is to use this SER5 5700U for presentations. Offering enough power to serve the entire container stack locally, in places where I have little to no internet access. The SER5 has been good enough to do a lot of development on the machine. I got started there just to burn in test it. It's an amazingly competent system for all kinds of home lab tasks.\n\nAt this point it's still running fully stock. However, I liked the setup so much that I've purchased a laptop with the same 5700U. And purchased a single 32GB DDR4 SODIMM to perform a lopsided upgrade on the SER5. If it's unhappy or slow with mismatched 8+32GB chips, I buy another 32GB SODIMM. But my understanding is that the first 16GB should perform the same, then get a slower (~5%) on the additional 24GB. If that's all, I can easily live with that drop, when it would have lost a lot more performance swapping. If this isn't the case I'll buy another 32GB chip. The pulled 8GB SODIMM will upgrade my Asus laptop, which shipped with a lopsided 8+4GB of RAM (8GB soldered to the motherboard).\n\nI loved that the SER5 has normal DDR4 SODIMM RAM, upgradable to 64GB. Plus room to add an SSD or swap out for a larger M.2 card. I've successfully used a usb3 attached m.2 card, and connected 3 monitors to it. All hardware recognized and works fine in Linux. Happily suspends and wakes up on power button pushes.\n\nSeamlessly using a BT keyboard and mouse. The performance with 3D mapping software output at 4K is flawless. Even when running the full back-end stack required to serve all of the map data locally. All while it's nearly silent and running cool. The rpi5 got very hot, even sitting on a static 3d scene and pulling data from the internet map sources. This machine draws a little more power, and is a little bigger than an rpi5. But the performance it offers is in an different league.\n\nWhen my desktop finally dies. I suspect one of these will be replacing it.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great for the money",
+      "body": "For the cost it's really hard to fault anything about this. Great processor, good Linux support (installed Ubuntu 23.10), good amount of RAM. Only downside was that something was rattling when I got it. Opened the case and found not 1, not 2, but 3(!!!) loose screws rolling around on the inside. Found their homes, tightened them up, and haven't had any trouble since.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "overall good although bit noisy",
+      "body": "Like the form factor. May be o.k. for gaming but fan noise was unpleasant while playing some action games. Since I use this as host for container and vm, it didn't matter for me and worked great for that purpose with 32GB memory and 16 threads at that price. Came with Windows 11 which I do not use. It had internal bay for laptop drive with SATA port which I put 512GB SSD (very cheap nowadays) with debian 12. I mounted internal NVMe 512GB it game with as dual boot setting just in case with debian accessing it as extra drive.\n\nGood as it is but wish fan noise was less when it peaks. So I took 1 start out",
+      "rating": 4,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great NUC, high value, solid all the way around.",
+      "body": "Beelink knows how to make NUC's and this one is really good. Stays pretty cool temp-wise, and runs everything - games will perform as they would on an equivalent desktop. I maxed the memory and it is running great. Buttery smooth streaming video and multi-tasks well too. Overall a great buy and Beelink has good support - the BIOS settings are more complete than in other NUC;s I have seen. I like Beelink products and will buy more from them going forward - high quality stuff. Get you one!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Microsoft stinks!",
+      "body": "This is an impressive little machine. I purchased this to replace a windows 7 computer my folks have been using which is a “thinks it can run windows 10 machine.” I figured I would bring them into 2023. They’re both approaching 80 and have no problem using this one. Even the power button is front and center meaning easy to find.\n\nIt’s light years more advanced. First off setup couldn’t have been easier. It has everything you need in the box. Two HDMIs - one short and one longer. I also purchased a new monitor for them and it came with a cord, but it was a nice touch for those who want to attach it to the back of a display.\n\nPrinter drivers and everything else installed easy peasy. The worst part of this was setting up windows 11! Microsoft wants control of everything and their greedy little paws in every facet of your life. Supposedly there is a way to set it up without an account, but I couldn’t get it to work so I created a fake account which no one will ever use for anything other than updating this computer. Then I declined all their sales pitches and accept this and that from location tracking to ad targeting to whatever else. If Macs weren’t so much I would have bought them one.\n\nI have no idea if it will run games. It surfs the web beautifully and YouTube videos are no problem at all. I did watch some YouTube review videos on this machine before buying it and they did say it will do some gaming if that’s your thing. Build quality seems top notch.\n\nIn closing…Microsoft stinks. BeeLink? Fantastic!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Windows 11 Pro License Issue",
+      "body": "I had to wipe and rebuild my Beelink SER5 MAX Mini PC,Ryzen 7 yesterday. Microsoft is now stating that my Windows 11 Pro license is not valid. I am not able to use the mini computer until I have a valid Windows 11 Pro key from Microsoft.",
+      "rating": 3,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "replaced my laptop for working from home",
+      "body": "Still very good after two months:\nbeen using a laptop to work from home (with docking station and big monitor), but now it's replaced by this mini PC. Never heard of Beelink, but it's still very good after two months. It's extremely quiet and doesn't get much warm at all after doing full days of work. I appreciate that it comes with lots of useful ports so I also replaced my docking station with a 7 dollar one bought in temu.com (lol... did it just for fun).\n\nHowever, I was slightly unhappy that the description says it's Linux OS but it actually came with Windows 11 Pro. I tested Ubuntu with no issues though. Well, I actually don't mind getting Windows after all (RDP to work using Windows is nicer than using Linux), but it's just different from description.\n\nHighly recommended product!",
+      "rating": 5,
+      "hasImage": 1,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Solid Mini PC",
+      "body": "I own 6 Beelink Mini PCs. All of them run Linux, 5 of them SER5 due to issues I had with SER6 (maybe a Linux issue) and SER7 (probably a Linux issue). This Beelink SER5 MAX runs Debian desktop and 3 monitors. It is solid. This unit has 64GB RAM as I can't deal with 16GB or 32GB on main machines without constantly running into that max.\n\nI don't game, but I use a lot of virtual machines, applications and tend to be a browser-tab hog. Too often working up to multiple hundreds of tabs across multiple browser instances. I've encountered no issues due to that.\n\nThe only issue I've encountered is when running a desktop VM from this machine while accessing it from the same machine. It seems a little laggy too often. However, if I RDP to a different box and then RDP to the local VM from that box on one of the screens, it behaves the same as RDPing from a full-sized PC with a dedicated graphics card.\n\nI love these boxes. They offer near all of the benefits of a desktop computer but require substantially less space and use quite a bit less power. I finally got a UPS for my desk where I can see power consumption regularly, and running a SER5 Max, a SER5 Pro, 5 monitors, a firewall and a switch, it pulls less than 115 watts for regular use. My old desktop box was pulling over that just sitting there with 3 monitors on without a local firewall.\n\nI only purchased my first Beelink MiniPC about 7 months ago, but through everything, they seem solid. I don't have need for any more, outside maybe a media box for a TV, but I wouldn't hesitate to buy this, or at least any other SER5, at this time. I know there are other Mini PC brands available, but I see no reason to look beyond Beelink unless something changes.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Good little PC for the price.",
+      "body": "Upgraded mine to 32gb and 1tb NVME, has been working great so far. Also like the fact that the BIOS is unlocked. You can do some indie gaming, emulation and some older PC games on it, even at 4k.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "This little thing is incredible",
+      "body": "I replaced an aging once-top-of-the-line gaming PC with this little box. I can't believe how much more capable and how much more _quiet_ it is than the behemoth it replaced. Runs Linux perfectly.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great Media Server (has power)",
+      "body": "I ORIGINALLY bought a Beelink 4 Cores 11th Gen Intel N5095 Mini-S Mini PC, 8GB RAM 128GB SSD Gigabit Ethernet, to use as a Plex media server. It didn’t cut it. Major transcoding issues especially when sending to app on phone via cellular. Returned for this: Beelink SER5 Mini PC and problem solved. Very fast and I’m happy.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Impressive",
+      "body": "Of course you aren’t going to be running any crazy games on it, but for a daily driver basic PC, this thing is great.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Little Trooper",
+      "body": "I have two of these things, came cheap and on sale. One I have running Server 2022 running the home network. The second I strapped to the back of a 1080p monitor with its provided mounting hardware, effectively making it an all in one PC. This thing isn't going to play 4k AAA games, but at 1080p with its integrated GPU its handling things like World of Warcraft at high to ultra settings at mostly 40-50 FPS. Only occasionally dropping frames in bosss fights with high particle density spell effects.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "So far so good.",
+      "body": "I decided to downsize and get rid of all of my computers except for my laptop. After a while I wanted something with a little more power but didn't want to spend a lot as I usually build my own systems. I decided to give these little minis a shot and I can honestly say I'll never go back unless I need something specific hardware-wise. This thing performs flawlessly. I have two of them with different specs - one is my desktop and one runs my TV / video. I bought a little desktop shelf to put them on and it is the perfect little \"server rack\". For perspective the shelves are 11.5\" wide by 5.5\" deep - so very small. These little guys sit there perfectly. I added a 2 TB SSD to both of them so there is plenty of storage. If you look closely you can see I added a couple of shims to get them off the shelf so air can flow under them as I felt a little heat on the bottom. This would probably not be an issue if you don't add the SSD as it sits at the base of the unit.",
+      "rating": 5,
+      "hasImage": 1,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Mini computer",
+      "body": "Actually works pretty good. Speed is decent. The only thing I noticed is that when I connect the mini pc to the monitor it isn’t as bright as when I connect my laptop to the monitor. Otherwise, clarity is the same.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Excellent little light duty gaming pc",
+      "body": "It's not going to handle the latest triple a games, but it's a profoundly serviceable rig for slightly older games like Minecraft, DDO or City of Heroes.\n\nIt's very well designed, shockingly quiet for an active cooled computer, even when under load.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Awesome",
+      "body": "I bought this for my son for gaming. I had never heard of mini PC's before. Watched a ton of videos, did some research, joined a few discussions and landed on this. Works great and he's been able to play his games no problems.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Earlier version of SER5 PRO",
+      "body": "Great mini PC, I eventually replaced WIN 11 with Mint 21.2 OS, I use Kdenlive to produce YouTube videos. My video editor (of choice) had a bad time on WIN 11, OBS also stuttered on WIN 11. After Mint OS install all is really great! This mini can render a video almost as fast as my 3 year old PC build! Every thing just works! Blue tooth, wireless, web search and photo editing, all work. The latest PRO model has a slightly faster CPU, R7 5800H, my version is R7 5700U, same series just uses less power. I do not PC game. I use WIN 11 on mid-tower with Quest 2, not to play but to download and side load. I would recommend this mini, runs cool (almost cold) and no fan noise!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great media server.",
+      "body": "I've been using this as our multimedia server and it works great. It's very quick to respond and there is no lag or buffering using Plex on Roku. I had been using an older model Mac Mini, but that has become obsolete at this point. No issues for what I use it for, but I don't know how well it would work for video creation or gaming. Wait for a sale. It's worth the cost. I'm very happy with it.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Good, but fan noise is loud",
+      "body": "Good little PC. No problems, but the fan sounds like a hairdryer",
+      "rating": 4,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great price, on time. Great product",
+      "body": "Perfect for hanging on back of TV, powerful, solid state.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Vendor Does Not Care About Bios Vulnerability Patching",
+      "body": "So I really like this device but due to it not upkeeping vulnerability patches and being in the digital age - I have to send this back.",
+      "rating": 3,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "I LOVE THIS SYSTEM!!",
+      "body": "I was stanoffish about buying a pc like this but i gotta tell you, I am amazed at the quailty of this. The speed is so fast. I use it maily for roblox to play with my kids and there is no lagging at all. i can hook it to my tv, projector, anything with an hdmi. I bought one of those monitors that stands alone and is portable, connects to that through usb c to c. so i still have an open hdmi port. only thing i wish it had was an sd slot. no big deal though. very happy",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "This little system is amazing!",
+      "body": "With the 5800H and 32GB RAM, this little thing is amazing! Running Win11 using Virtual Box, I had 13 VMs running Server 2022 with 2GB each for 3 days to burn the system in. Still amazed! It’s now been running my small home lab with 6 Virtual Machines running 24/7. Could not be happier!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Very speedy",
+      "body": "Much faster compared to the earlier 4 core Intel powered U59 model. Having 8 cores and 16 threads is a significant improvement. It is also very quiet. The only change I made was to lower the video RAM usage to 1gb from the default of 3gb.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "This Beelink Ser5 Max surprised me. Very fast and dependable.",
+      "body": "The Beelink Ser5 Max mini computer is great. I love this little lightning bolt. If you have a little extra money go for the fastest you can afford. I think you'll be glad you did.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great bang-for-the-buck small form factor powerhouse",
+      "body": "Astounding what $400 can buy today, with latest blistering-fast processors, high-speed RAM in abundance and SSD measured in Terabytes. Has full array of I/O interfaces eliminating the need for any external hubs. Should always plan for adequate airflow (read fully unobstructed with reasonable movement). A very short time ago this would be impossible to pack into such a small form factor and performance/capacity specs anywhere near this would have costs thousands. Today - it's a steal!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Speedy PC & easy set up.",
+      "body": "Old computer that this replaxed took 5 mintes to boot up, this is less than 10 seconds. Runs Quickbooks and Adobe graphics amazingly fast and was easy to integrate into our WLAN.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great computer for the price",
+      "body": "I bought this computer to replace a powerful gaming laptop because I no longer game and wanted a smaller footprint. This computer is very fast and quiet. I use it primarily for streaming music, browsing the web and Wordpress Web Design and couldn't be happier. If you're looking for small footprint of a pc to replace a bigger and bulkier pc then buy this.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Fast, quiet space-saver",
+      "body": "I've owned this Mini PC for a few days now and I am quite pleased. For general use (web surfing, video streaming, email, productivity) it is very quick, and I've done some light gaming as well with settings turned down (for example, Fallout 4 runs well at 900p and medium detail). It is dead silent most of the time, though there is some fan noise when it is working hard as one would expect. Temps seem fine: 50-60C range. This is my first time using Windows 11, and although it takes up a lot of RAM (4gb at idle), I haven't had any major problems. Only (minor) issues that I've had are: 1) BIOS splash screen indicates that DEL key will bring up BIOS setup, but this does not work. Have to hit F7 to go to the boot menu, then select \"Setup\" from there, and 2) AMD Radeon display software gave an error when I tried to open it, saying the driver version did not match the Radeon software version; installing fresh drivers & software from AMD website fixed this.\n\nVery happy with this little PC so far, and I hope it will serve me well for years to come!",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great little PC for the money",
+      "body": "These are fantastic small form factor PCs for just about any use. I purchased several for POS systems.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Great for general office work",
+      "body": "Not a good gaming computer. Will occasionally freeze up because of the Raedon Graphics",
+      "rating": 4,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "IT WORKS WELL",
+      "body": "It work well.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Awesome purchase",
+      "body": "Can hold it's own with modern gaming. I mean not going to get away with ultra settings but it is very solid on high / med settings. Does not get too hot and I never hear the fan kicking in. I bought it to use playstation plus where you stream games from the cloud and for Xbox game pass. It runs both of these services flawlessly. In all other respects it is a well made windows mini PC. So much nicer than having a large desktop hooked up with one that can practically fit in your pocket without giving up on performance. Any case was a great investment.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Best mini computer for the money that I have ever seen",
+      "body": "This mini pc was easy to set up. I added the ssd 500 gig drive from my previous computer and now have 1 TB of space after cleaning up junk. It took about 5 minutes to add the drive with no configuration. This pc loads fast and opens new Photoshop and Illustrator applications (installed not cloud) in a flash. I love this machine and now have my desk space back.",
+      "rating": 5,
+      "hasImage": 1,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "The power supply died within 48 hours",
+      "body": "Got the unit. mostly got it set up, though it came with Windows and that's a problem needing a replacement ssd which I've bought. That's not the fault of the manufacturer or the vendor.\n\nBut the power supply died within 48 hours. Sent a message to the vendor and got no answer. Luckily, I had a standard laptop power supply around and that's what the unit takes. I'm happy with the device, but not the vendor.",
+      "rating": 3,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Wife Loves it",
+      "body": "Bought this for my wife's new PC in her office as the director of a preschool. Space is at a premium and she wanted something that was fast and could be on her desk. This checks all the boxes, super snappy small and runs great.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Amazing lil box",
+      "body": "Bought this for my GF in July 2023. She is not a gamer at all and simply needs a computer to browse the internet, buy and sell stocks/crypto and also design t-shirts. This beelink dwarfed her previous computer in every category except size. She is constantly telling me how amazingly fast it is. Great purchase and great product.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    },
+    {
+      "title": "Good unit",
+      "body": "32gb of ram is very useful for me. the particular drive that shipped with mine is the Crucial P3, very good SSD. Ryzen 7 handles everything you throw at it. Good PC.",
+      "rating": 5,
+      "hasImage": 0,
+      "hasVideo": 0,
+      "isAI": 0
+    }
+  ]
+}
